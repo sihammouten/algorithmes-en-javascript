@@ -8,3 +8,4 @@ Le but de cette série est de résoudre plusieurs algorithmes afin de vous aider
 * *Is Palindrome* [code](/isPalindrome/) - [Episode - 2](https://youtu.be/-OVEVKzBc7Y) 
 * *Reverse Words* [code](/reverseWords/) - [Episode - 3](https://youtu.be/hig-WuO78ys) 
 * *Reverse Number* [code](/reverseNumber/) - [Episode - 4](https://youtu.be/0SjNzT_bu7o)
+* *Find The Vowels* [code](/findTheVowels/) - [Episode - 5](https://youtu.be/o4lJHIiL9Po)
